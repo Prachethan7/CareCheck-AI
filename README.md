@@ -1,4 +1,4 @@
-# Multi-agent-conversation-for-disease-diagnosis
+# Care Check AI
 
 ## Introduction
 
@@ -59,3 +59,4 @@ Results will be saved in a folder named `outputs/`.
 ## Contributing
 
 We welcome contributions to this project. If you have suggestions for improvements or want to report issues, please feel free to open an issue or submit a pull request.
+
